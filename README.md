@@ -60,4 +60,4 @@
 <!--- ![plot]() --->
 
 
- [Download here]() 
+ [Download here](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/NGS%20Analysis%20for%20Monogenic%20Diseases%20-%2012%20-%2013%20December%202022%20-%20Rabat%2C%20Morocco.pdf) 
