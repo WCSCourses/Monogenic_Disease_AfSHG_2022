@@ -1,4 +1,4 @@
-![plot](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/CS%20logo%20image001.jpg)![plot](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/AfSGH.jpeg)
+![plot](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/CS%20logo%20image001.jpg)![plot](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/AfSGH.jpeg)![plot](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/Logo%20SM2GH%20VF(1).png)
 
 # NGS Analysis for Monogenic Disease in African Populations: 12 - 13 December 2022
 
