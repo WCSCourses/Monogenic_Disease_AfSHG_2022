@@ -20,7 +20,7 @@
 - [Nchangwi Syntia](https://www.sickleinafrica.org/article/84), SADaCC, South Africa
 - [Catherine Tcheandjieu](https://profiles.ucsf.edu/catherine.tcheandjieugueliatcha), UCSF, USA
 - [Ambroise Wonkam](http://www.idm.uct.ac.za/Ambroise_Wonkam), UCT, South Africa
-- [Mohamed Zahir Alimohamed](https://inteafrica.org/news/interview-mohamed-zahir-alimohamed-research-coordinator-scientist-respond-africa/), Hindo Mandal Hospital, Tanzania
+- [Mohamed Zahir Alimohamed](https://inteafrica.org/news/interview-mohamed-zahir-alimohamed-research-coordinator-scientist-respond-africa/), Muhimbili University of Health and Allied Sciences, Tanzania
 
 ## Organisers
 - [Alice Matimba](https://www.linkedin.com/in/alice-matimba-8805177/), Wellcome Connecting Science, UK
