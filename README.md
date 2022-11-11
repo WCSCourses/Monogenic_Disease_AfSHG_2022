@@ -30,7 +30,7 @@
 - Karon Chappell, Wellcome Connecting Science, UK
 - Martin Aslett, Wellcome Connecting Science, UK
 
-## Timetable
+## [Timetable](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/NGS%20Analysis%20AfSHG%20Timetable%20and%20Planning%20-%20Timetable%20draft.pdf)
 ### Overview
 - Pre-workshop:
   - Human Genetics Basics
