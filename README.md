@@ -39,7 +39,7 @@
 - Monday 12 December 2022:
   - Session 1: Reference Variation Datasets
   - Session 2: NGS Technologies
-  - Session 3: Variant Analysis & Workflow QC
+  - Session 3: [Variant Analysis & Workflow QC](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/variant%20analysis%20and%20workflow%20QC.pptx.pdf)
   - Session 4: Mapping, Variant Calling, CNVs
   - Session 5: [Variant Annotation](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/SM.Adadey-Variant%20Annotation.pptx.pdf)
   - Session 6: Variant Filtering Strategies & Prioritisation 
