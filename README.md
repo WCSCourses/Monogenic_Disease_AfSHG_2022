@@ -41,7 +41,7 @@
   - Session 2: NGS Technologies
   - Session 3: Variant Analysis & Workflow QC
   - Session 4: Mapping, Variant Calling, CNVs
-  - Session 5: Variant Annotation
+  - Session 5: [Variant Annotation](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/SM.Adadey-Variant%20Annotation.pptx.pdf)
   - Session 6: Variant Filtering Strategies & Prioritisation 
   - Session 7: Clinical Significance, Validity/Utility
   - Session 8: Functional Characterisation - Model Systems
