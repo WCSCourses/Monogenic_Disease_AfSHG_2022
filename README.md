@@ -48,7 +48,7 @@
 
 - Tuesday 13 December 2022:
   - Session 9: Interpretation of Genetic Variants
-  - Session 10: Case Study Exercises
+  - Session 10: [Case Study Exercises](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/Cases.pdf)
   - Session 11: International Networds
   - Session 12: [Limitations of Genome Analysis Methods](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/SM%20Adadey%20Limitations%20of%20genome%20analysis.pptx.pdf)
   - Session 13: Ethical Considerations
