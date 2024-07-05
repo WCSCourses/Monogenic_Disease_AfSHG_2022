@@ -60,3 +60,8 @@
 
 
  [Download here](https://github.com/WCSCourses/Monogenic_Disease_AfSHG_2022/blob/main/materials/TIMETABLE%20NGS%20Analysis%20AfSHG%202022.pdf) 
+
+ ******
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
+
